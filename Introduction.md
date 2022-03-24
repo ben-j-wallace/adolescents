@@ -13,5 +13,12 @@ To be sure, schools provide a limited view into the lives of adolescents. Other 
 
 This paper begins with a review of racial and ethnic socialization, particularly among white adolescents, and directs it towards a discussion of how schools exist as race-making and socializing institutions. I then introduce informal and formal components of public high schools and use meta-analysis to produce conclusions [after this part is written, I can include my conclusions here].
 
+## Background
 
+Race is a dynamic social construct that intertwines with the United States's unique history of white domination and marginalization of Black, Indigenous, Latinx, and Asian-American individuals. Population geneticists contend that human variation does not satisfy discrete races, yet race remains socially real. Racialized practices and social relations across areas of housing, wealth accumulation, health, and education continue to shape individuals' life outcomes. Despite these findings, significant associations with race cannot be understood as reflecting racial groups' inherent characteristics. Instead, analyses of the "main effect" of race point to micro-level occurrences racism as well as a broader racialized social structure.
 
+As early as age ___ children begin discovering the significance of race through "social encounters" at various junctures in their development. By middle childhood, these experiences obtain subjective relevance, particularly as they construct racial identities. By adolescence, racial identities crystallize ...
+
+### Racial Learning
+
+Identity formation is one notion acquired by children that is refined through development. The process of racial learning,
