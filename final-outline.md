@@ -69,23 +69,28 @@ Outline:
 ### Curricula
 
 * At the writing of this article, American political discourse has taken aim at the education of race, racism, and _.
-  * Even during Judge Ketanji Brown-Jackson's confirmation hearing to the United States Supreme Court, Senators have brought it up as an issue.
-* However, even before the teaching of experiences of race were consumed by this recent culture war (fair analysis?), educators and policymakers have differed on whether and how the experiences and history of racial and ethnic groups should be discussed in schools.
-  *
-
-* Context: Current moment in the United States and teaching issues of race
-  * In 36 states (as of Feb 2022), legislators have moved to [Source](https://www.chalkbeat.org/22525983/map-critical-race-theory-legislation-teaching-racism)
+  * This contest has permeated school board meetings, city councils, state legislature sessions, and even in Congress. 
+  * during Judge Ketanji Brown-Jackson's confirmation hearing to the United States Supreme Court, Senators have brought it up as an issue.
+* However, even before this recent political discourse on race and education, educators have deliberated teaching of experiences of race were consumed by this recent culture war (fair analysis?),  educators and policymakers have differed on whether and how the experiences and history of racial and ethnic groups should be discussed in schools.
 * Define curriculum: what is taught.
-* Afrocentric education, multicultural
-  * Anti-bias: stemming from efforts that saw that young children have racial preferences.
+  * Some school systems and state legislatures include colorblind approaches that 
+  * Diversity ideology: Celebrating difference but ignoring the role of power, white supremacy, and white privilege in past and contemporary life. (multicultural approach, anti-bias as well)
+  * The third most prominent, anti-racist (what conservative activists have recently put into their crosshairs). Makes the bulk of literature advocating for changes in curricula and teacher training.
 
-* Do white adolescents notice how their education marginalizes other world views?
+* Context: Current moment in the United States and teaching issues of race (include above)
+  * In 36 states (as of Feb 2022), legislators have moved to [Source](https://www.chalkbeat.org/22525983/map-critical-race-theory-legislation-teaching-racism)
+* As localities pursue different approaches to the teaching of race and racism, a central question is how white adolescents interpret them, particularly the extent to which they absorb or rework colorblind messages.
+
+
 
 ### Teachers
 
-* While curriculum is what is taught in classrooms, how teachers instruct their students, or pedagogy, is also important.
-  *
-* K-12 teachers are overwhelmingly white (Festritzer 2011 "Profile of Teachers in the United States" edweek. org) and middle-class yet many teach students from other racial and socioeconomic backgrounds.
+Although American schools vary in their educational approaches to race, teachers also have discretion to emphasize the role of racism and race in certain topics more than others, so the two are difficult to separate.
+
+* While curriculum entails what is taught in classrooms, how teachers then instruct their students, or pedagogy, is also important.
+* The teaching methods adopted by K-12 teachers on matters of race, racism, and diversity are especially
+
+are overwhelmingly white (Festritzer 2011 "Profile of Teachers in the United States" edweek. org) and middle-class yet many teach students from other racial and socioeconomic backgrounds.
 * Outside of the mandated curriculum, teachers also interact with their students informally, providing emotional assistance and connections.
   * Black students, same-race effect and support.
 * How do white adolescents' experiences with teachers shape their understanding of race, racism, and inequality.
@@ -100,14 +105,14 @@ Educational legislation and school policies profoundly shape the environments in
   * For example, the experiences of
   * School trust higher among white students than Black, Latinx
 
-*
+* 
 
+### Peers
 
-While the effects of these policies are drastic and some analysts have considered their perceptions by Black and Latinx students, white students' perceptions of safety, crime, and __ are often overlooked.
+Middle and high schools present tend to put more American students in contact with peers that share different identities (e.g. class, race, gender, sexual orientation). However, it has been observed that white adolescents mostly pursue friendships with individuals that are also white (see Aldana & Byrd citations).
 
-* Many parents fear their child's safety, overall adult population.
-
-* How is racialized? What do students think about issues of safety, and how do these policies impact these perceptions?
+* Scholarship examining "self-segregation" often ignores the power imbalances that exist among adolescent peer networks.
+  * White students tend to have only white friends, and students from marginalized racial groups are more likely to have friends *of all racial groups*. 
 
 **how do white adolescents interpret their the racial context of high school (primarily public)?**
 
