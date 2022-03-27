@@ -59,6 +59,12 @@ Outline:
 * What previous scholars argue about white individuals and RES
   * Particularly important in adolescence
 
+#### Colorblindness
+
+* Psychological discoveries: colorblind racism mostly negative. Decreases sensitivity to racism and discrimination (May 14, 2018)
+  * Include ethnographic example (e.g. smiling discrimination)
+* 
+
 
 #### Schools as places of Racial Learning/RES
 
@@ -110,6 +116,8 @@ Educational legislation and school policies profoundly shape the environments in
 ### Peers
 
 Middle and high schools present tend to put more American students in contact with peers that share different identities (e.g. class, race, gender, sexual orientation). However, it has been observed that white adolescents mostly pursue friendships with individuals that are also white (see Aldana & Byrd citations).
+
+* Moderated by "positive intergroup contact attitudes" (Rivas-Drake et al. 2018)
 
 * Scholarship examining "self-segregation" often ignores the power imbalances that exist among adolescent peer networks.
   * White students tend to have only white friends, and students from marginalized racial groups are more likely to have friends *of all racial groups*. 
