@@ -97,7 +97,8 @@ Although American schools vary in their educational approaches to race, teachers
 * The teaching methods adopted by K-12 teachers on matters of race, racism, and diversity are especially
 
 are overwhelmingly white (Festritzer 2011 "Profile of Teachers in the United States" edweek. org) and middle-class yet many teach students from other racial and socioeconomic backgrounds.
-* Outside of the mandated curriculum, teachers also interact with their students informally, providing emotional assistance and connections.
+* Outside of the mandated curriculum, teachers also interact with their students informally, and help satisfy their needs for belonging, competence, and autonomy (Bottani et al. 2016; see other citations there).
+* emotional assistance and connections.
   * Black students, same-race effect and support.
 * How do white adolescents' experiences with teachers shape their understanding of race, racism, and inequality.
 
@@ -118,9 +119,10 @@ Educational legislation and school policies profoundly shape the environments in
 Middle and high schools present tend to put more American students in contact with peers that share different identities (e.g. class, race, gender, sexual orientation). However, it has been observed that white adolescents mostly pursue friendships with individuals that are also white (see Aldana & Byrd citations).
 
 * Moderated by "positive intergroup contact attitudes" (Rivas-Drake et al. 2018)
-
 * Scholarship examining "self-segregation" often ignores the power imbalances that exist among adolescent peer networks.
   * White students tend to have only white friends, and students from marginalized racial groups are more likely to have friends *of all racial groups*. 
+
+
 
 **how do white adolescents interpret their the racial context of high school (primarily public)?**
 
