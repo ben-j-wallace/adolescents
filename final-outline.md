@@ -82,10 +82,18 @@ Outline:
   * Some school systems and state legislatures include colorblind approaches that 
   * Diversity ideology: Celebrating difference but ignoring the role of power, white supremacy, and white privilege in past and contemporary life. (multicultural approach, anti-bias as well)
   * The third most prominent, anti-racist (what conservative activists have recently put into their crosshairs). Makes the bulk of literature advocating for changes in curricula and teacher training.
-
 * Context: Current moment in the United States and teaching issues of race (include above)
   * In 36 states (as of Feb 2022), legislators have moved to [Source](https://www.chalkbeat.org/22525983/map-critical-race-theory-legislation-teaching-racism)
+* Even among social-justice oriented curricula, students' preconceived notions of racial and economic privilege can undermine these lessons.
+  * Swalwell 2013, 5: Learning about injustice to pass down the knowledge, "help motivate people" reinforces cultural racism. Also resigned, benevolent benefactor, 
+
 * As localities pursue different approaches to the teaching of race and racism, a central question is how white adolescents interpret them, particularly the extent to which they absorb or rework colorblind messages.
+
+* Literary texts, especially those that include the stories of people of color, can give white adolescents a glimpse into the reality of being a person of color (Hatchell 2004)
+  * By interacting with text in class discussions, white students can identity with those from other racial groups while still learning about the unique marginalization they face. e.g. Hatchell's interviewee relating to the experience of a 
+  * Gospel of Wealth (Swalwell 2013) and interpretations about privilege.
+* History
+  * Hatchell (2004, 100): Omission of how early Aboriginals organized their societies at the time of European colonization in Australian history leads white students to "accept prevalent discourse" that dismisses Indigenous claims to land.
 
 
 
@@ -121,6 +129,12 @@ Middle and high schools present tend to put more American students in contact wi
 * Moderated by "positive intergroup contact attitudes" (Rivas-Drake et al. 2018)
 * Scholarship examining "self-segregation" often ignores the power imbalances that exist among adolescent peer networks.
   * White students tend to have only white friends, and students from marginalized racial groups are more likely to have friends *of all racial groups*. 
+
+## Conclusion
+
+Diversifying schools are more important than curricula when students mainly map curricula to ideological frames.
+
+* See peer networks and whether this is supported?
 
 
 
