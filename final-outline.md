@@ -75,20 +75,23 @@ Outline:
 ### Curricula
 
 * At the writing of this article, American political discourse has taken aim at the education of race, racism, and _.
-  * This contest has permeated school board meetings, city councils, state legislature sessions, and even in Congress. 
+  * This debate permeates across almost all levels of government, from school board to city council meetings, state legislature sessions, and even in Congress. 
   * during Judge Ketanji Brown-Jackson's confirmation hearing to the United States Supreme Court, Senators have brought it up as an issue.
-* However, even before this recent political discourse on race and education, educators have deliberated teaching of experiences of race were consumed by this recent culture war (fair analysis?),  educators and policymakers have differed on whether and how the experiences and history of racial and ethnic groups should be discussed in schools.
-* Define curriculum: what is taught.
-  * Some school systems and state legislatures include colorblind approaches that 
+* Despite their salience today, race, racial inequality, and racism have always mattered in the school curricula, whether mentioned explicitly or not (Thomas 2015; …)
+* The term "curriculum" refers to what is learned, or the prescribed content for students in a given period of education.
+* By nature of curricula being socially constructed, much like race, it exists in a hegemonic relationship with the culture which produces it.
+
+  * For example, in French primary schools, lunch time is part of the mandated curriculum. Kids taught manners, expand their palette, nutrition. 
+* Ultimately, notions of etiquette and proper nutrition are decided through "common sense"
+* Similarly, the education of race is decided collectively, still 
+  
   * Diversity ideology: Celebrating difference but ignoring the role of power, white supremacy, and white privilege in past and contemporary life. (multicultural approach, anti-bias as well)
   * The third most prominent, anti-racist (what conservative activists have recently put into their crosshairs). Makes the bulk of literature advocating for changes in curricula and teacher training.
 * Context: Current moment in the United States and teaching issues of race (include above)
   * In 36 states (as of Feb 2022), legislators have moved to [Source](https://www.chalkbeat.org/22525983/map-critical-race-theory-legislation-teaching-racism)
 * Even among social-justice oriented curricula, students' preconceived notions of racial and economic privilege can undermine these lessons.
   * Swalwell 2013, 5: Learning about injustice to pass down the knowledge, "help motivate people" reinforces cultural racism. Also resigned, benevolent benefactor, 
-
 * As localities pursue different approaches to the teaching of race and racism, a central question is how white adolescents interpret them, particularly the extent to which they absorb or rework colorblind messages.
-
 * Literary texts, especially those that include the stories of people of color, can give white adolescents a glimpse into the reality of being a person of color (Hatchell 2004)
   * By interacting with text in class discussions, white students can identity with those from other racial groups while still learning about the unique marginalization they face. e.g. Hatchell's interviewee relating to the experience of a 
   * Gospel of Wealth (Swalwell 2013) and interpretations about privilege.
@@ -98,6 +101,8 @@ Outline:
 
 
 ### Teachers
+
+See Pollock 2004 from Thomas "We Always Talk About Race"
 
 Although American schools vary in their educational approaches to race, teachers also have discretion to emphasize the role of racism and race in certain topics more than others, so the two are difficult to separate.
 
@@ -109,6 +114,11 @@ are overwhelmingly white (Festritzer 2011 "Profile of Teachers in the United Sta
 * emotional assistance and connections.
   * Black students, same-race effect and support.
 * How do white adolescents' experiences with teachers shape their understanding of race, racism, and inequality.
+
+Color of Water: A Black Man's Tribute to his White Mother Dangerous Minds (Thomas 2015). Both school mandated. 
+
+*  Color of Water: white student opposes (161), so teacher says "It's a different kind of spin." Assumes SES of students, eventually students pick Hemingway's *A Farewell to Arms*.
+* Dangerous Minds: N word debate, who can say it? How does a White teacher respond to student's observation? (166). "Some grown ups" kid qualifies the white teacher's statement that some people can use the n-word. Uses the NAACP as evidence that all Black people want the word to go away, that even Black people can't use it.
 
 ### Curricula
 
