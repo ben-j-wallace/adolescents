@@ -104,7 +104,77 @@ Outline:
 
 See Pollock 2004 from Thomas "We Always Talk About Race"
 
-Although American schools vary in their educational approaches to race, teachers also have discretion to emphasize the role of racism and race in certain topics more than others, so the two are difficult to separate.
+Teachers play a large role in shaping how issues of race, racism are taught in schools.
+
+* Remains a predominately white profession.
+  * Since 1987, the percentage of white American public school children has dropped from 71 percent to 47 percent. The percentage of white teachers, however, has decreased from 87 percent to 79 percent. (gap has doubled 16 vs. 32) (pew research 2018) 
+* Approximately 70% of teachers (71% of white, 69% of Black, 68% Hispanic) adopt a color-mute frame (Vitrup 2016; Hazelbaker & Mistry 2021).
+
+* Formally, these decisions influence how they frame the importance of racism within certain topics, for example: history. 
+* Informally, they leverage expectations of their students that can be absorbed.
+* Both the formal and informal mechanisms reflect ideological positions (e.g. colorblind racism, diversity ideology, etc.) that white adolesecents can contest, share, and reflect.
+
+In teaching history, teachers decide which stories to augment and which to minimize.
+
+
+
+* Hagerman: Racism is not a problem anymore. . . . Racism was a problem when all those slaves were around and that like bus thing. . . . And like Eleanor Roosevelt, and how she went on the bus. And she was African American and sat on the white part . . . but after the 1920s and all that, things change
+
+
+
+Outside of history… teachers interact with their students differentially. 
+
+* The large body of research on teacher expectancy of their students have revealed their tangible and racialized impacts on students' academic achievements, such as test scores (Sorhagan 2013), greater school discipline (Soumah and Hoover 2013), and graduation rates (cite).
+* The process of how teacher expectancy is developed can be traced to Brophy and Good's (1970) model.
+  * First, that teachers developing expectations based on classroom performance (manners, grades, test scores)
+  * Teachers grouping students during instruction, thus differentating behaviors towards them.
+  * Student's self concept, **define**, thus altered by their treatment from teachers.
+  * Once made continuous, students alter their behaviors based on their.
+* As early as _, students can recognize differences in treatment. Recent scholarship has tied the feedback loop of these processes to various outcomes. Include example of age  to age ___.
+
+Since the Brophy and Good model, analysts have observed the racialized dimension of teacher expectancy and their impacts on the student's perceptions of worth.
+
+* Fox (2016): Black students and other students of color (?) are more likely to receive favorable expectations for postsecondary attainment and recommendations for advanced courses from Black teachers.
+
+  * Redding: expectancy of post-high school: Black teachers and Black children (11 points), Latinx teacher and Latinx student (13 points)
+
+    Fox: Expectancy of post-high school: Black teacher and Black children (11 to 17 points)
+
+    * There is little statistical evidence that white students benefit from a same-race teacher pairing.
+
+* Past studies have confirmed that many adolescent of color are aware of negative treatment from teachers (Soumah & Hoover 2013),
+
+* but it has been considerably less studied whether white adolescents perceive differential treatment and expectations from teachers. How their developing ideological commitments reflect contest these narratives.
+
+Andrews & Gutwein: all racial groups can perceive differential treatment based on race and class.
+
+* All could also perceive which students were framed as intellectually inferior, teachers construction of "good" and "respectful" students.
+
+* White students interviewed however, did not always acknowledge the subtly of how teachers racialized "respectful" and "good" students.
+  * One, for instance, mentioned discussed his teacher's preferential treatment to him based on his race.
+  * I actually do feel as if I’m treated with an advantage, because I’m clearly active in the school, I’m on the news often, and I’m president of clubs and such ... so teachers tend to, like, not care as much about what I do... there was this really strict rule about drinks and you couldn’t have drinks and they were really enforcing it, and I clearly walked down the hall with a drink in my hand, and he [a teacher] just walked past me and he looked at me and we exchanged a nod.
+  * The positive, uncritical treatment that the white male student received from his teachers reflects the benefit of his whiteness that Black and Latinx students in the school quickly. However, he is able to attribute his, naturalization frame
+
+* Student: I think there are certain students who are really disrespectful, and I think that’s why a lot of teachers will, uh, almost establish sort of a discriminatory view on a certain type of student. Like you were saying of that certain racial group. 
+
+  Interviewer: What certain racial group? 
+
+  Student: Latinos and African Americans. I mean I hate to say it but it’s truly like it’s been established. I remember being in a class. A Latino kid simply asked to go to the bathroom, and my teacher, like, berated them about going to the bathroom. A middle school Black student described a similar idea. I don’t think they racist or anything, but I think that they expect the, like, if they did see something in the past from a Black person then they expect that second Black person to do the same thing
+
+  * Acknowledges that teachers interact with Black students in a way that reinforces their previous notions of those students. 
+  * Style of colorblindness, of not declaring negative treatment of others as racist.
+
+Others
+
+
+
+* What role do teachers 
+
+Their relationship with students outside of formal instruction also matters.
+
+* Students who internalize negative expectations tend to believe that their school efforts have little effect on their achievement (Johnston et al. 2020)
+
+
 
 * While curriculum entails what is taught in classrooms, how teachers then instruct their students, or pedagogy, is also important.
 * The teaching methods adopted by K-12 teachers on matters of race, racism, and diversity are especially
@@ -139,6 +209,14 @@ Middle and high schools present tend to put more American students in contact wi
 * Moderated by "positive intergroup contact attitudes" (Rivas-Drake et al. 2018)
 * Scholarship examining "self-segregation" often ignores the power imbalances that exist among adolescent peer networks.
   * White students tend to have only white friends, and students from marginalized racial groups are more likely to have friends *of all racial groups*. 
+
+"Shutting down" when race is mentioned yet using the term "racist" pejoratively or humorously, which their parents don't do. Such as jokes about deciding who has black and white chess pieces (Hagerman 2016, 64)
+
+* Hagerman: For instance, Britney (age 11), otherwise chatty and open with me, shuts down when I ask her to talk about race: Interviewer: Do you ever hear kids at your school—or do you and your friends ever talk about race? Britney: No. [Very quickly] Interviewer: Can you think of any times where you heard other kids like talking about race? Britney: [Shakes head no] Interviewer: Or making comments that you thought are not very nice about people of different races? Britney: No. [Avoids eye contact] Interviewer: So you never talk about race at school or with friends? Britney: No. [Shifting in seat] Interviewer: Why do you think that is? Britney: It’s not right. Interviewer: So outside of your school, do you think that racism is a problem in America? Britney: No. Like I said before, it’s not a problem! [Frustrated with me, looking around uncomfortably]
+
+The use of "teasing" or jokes about race is further investigated by Douglas et al. (2016) 
+
+* Argue that humorous stereotypes of others 
 
 ## Conclusion
 
