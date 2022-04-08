@@ -100,6 +100,8 @@ Outline:
 
 
 
+
+
 ### Teachers
 
 See Pollock 2004 from Thomas "We Always Talk About Race"
@@ -116,11 +118,69 @@ Teachers play a large role in shaping how issues of race, racism are taught in s
 
 In teaching history, teachers decide which stories to augment and which to minimize.
 
+* Hagerman: Racism is not a problem anymore. . . . Racism was a problem when all those slaves were around and that like bus thing. . . . And like Eleanor Roosevelt, and how she went on the bus. And she was African American and sat on the white part . . . but after the 1920s and all that, things change.
+
+  
+
+Byrd (2016): Support "culturally relevant teaching": brings students' cultural experiences into classroom discussions through three strategies: promoting high expectations for students, familiarity with other cultures, and development of critical consciousness (e.g. addressing racial inequalities and . 
+
+* Generally, Byrd's analysis of white students' perceptions supports the use of culturally relevant teaching. 
+* Students that report learning about 
+* Some examples of cultural competency items include:
+  * "In school, you get to do things that help you learn about people of different races and cultures."
+  * 
+  * "In your classes, you have learned about how race/ethnicity plays a role in who is successful."
+* Byrd found that, on average, high school students scored lower on racism awareness measures when they report teachers promote cultural competency alone. 
+  * The racial awareness measures include whether students perceive equal opportunities in the United States based on race and whether race is "a problem of the past, but… is not a problem today."
+  * They speculate that teachers may use "humanitarian messages" that overlook racial inequalities and power imbalances (insert page).
+  * Instead, teaching practices that promoted student's to critical reflect on oppression systemically and discuss 
+* She concludes: "It is important that teachers balance celebrations of diversity with discussions of historical and contemporary racism."
+  * Points to the particularities of contexts as white adolescents interpret racial messages from teachers. 
+
+Ethnographies of high school teachers reveal how white adolescents engage with teaching styles that balance cultural competency and critical consciousness.
+
+* Martell
 
 
-* Hagerman: Racism is not a problem anymore. . . . Racism was a problem when all those slaves were around and that like bus thing. . . . And like Eleanor Roosevelt, and how she went on the bus. And she was African American and sat on the white part . . . but after the 1920s and all that, things change
 
+Epstein:
 
+* p.10: **Important information about interpretations, citations**
+
+* p.34-35: teachers sent a "mixed message" about the significance of people of color in American history. They believed it was important to teach about experiences of racial groups and their contributions but in practice only focused on white American contributions, with the exception of Black Americans during the Civil Rights Movement.
+
+* p.40-41: balancing "positive" (racial cooperation) with the "negative" (racial conflict). Race relations was framed as an issue to be solved.
+
+* p.44-45: downplaying violence in order to not anger Black students, "now attend school together", everyone is equal. Civil Rights leaders helped "all people," not just Black people.
+
+* p.51: "slavery has been around since the beginning of time"
+
+* p.55-57: white teachers ignoring Black studetns' suggestions during Black History Month, 
+
+  * white students did not talk as much, ignore p.58: their observation that racism "is more subtle now."
+
+    
+
+* White perceptions
+
+  * p.61-62: imitated portrayal of racial groups as teachers.
+  * 64: **block quote by 11th grader**
+    * qualification by another 11th grader that things are better today but discrimination still exists; "there's nothing that says you can't do this because of your color or ethnicity."
+  * **p.72**: teachers tended to elaborate on adolescents' pre-existing understandings of race such as important actors (e.g. Rosa Parks and MLK Jr.). But they also introduced new interpretations that some whites picked up, such as the abstract liberalist interpretation of Civil Rights victories (not just Blacks that get rights but everyone).
+    * "King stood up for people's rights and everyone was listening. His main purpose was for everyone to be treated equal and not the color of your skin deteremine where you sat or ate. He got rights for everybody and now anyone can go to school and places together and not have to be separate." (**Alridge 2006**)
+  * p.73: Also accepted critiques such as Columbus not being a "discoverer."
+    * Letters to MLK Jr. activity
+    * Many eleventh grade students incorporated their teacher's perspective that Civil Rights Movement was multiracial, not just about Black people, but like their teachers they also ignored the existence of racial violence during Jim Crow era and Civil Rights. (Brown & Brown 2010)
+  * p.76: adolescents views were less influenced by teachers' perspective than fifth and eighth graders. 
+    * Bill of Rights: "rights that all Americans have" 
+    * p.77: **block quote by 11th grader**. p.78: more emphasis on racial struggle but did not completely over ride pre-instruction interpretation.
+      * **cultural racism** in andrea's "segregation" is just because of how people grow up.
+  * p.79: "half of the white adolescents believed that all people had rights and racism was nonexistent or related to individual discrimination"
+  * 1/4 of White adolescents believed that racism no longer existed and that Black people were responsible for tensions
+    * "Black history comes round, it's nothing but problems. Black people are mean to the white kids… That was the past" **minimization or racism**
+  * p.78: "**Pedagogy had very little effect on students' overall interpretive frameworks**" (Seixas 1993)
+    * perhaps because they were similar to what taught by parents (p. 113)
+  * good summary of influence of white teachers on p. 118
 
 Outside of history… teachers interact with their students differentially. 
 
