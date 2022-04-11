@@ -125,29 +125,43 @@ In teaching history, teachers decide which stories to augment and which to minim
 Byrd (2016): Support "culturally relevant teaching": brings students' cultural experiences into classroom discussions through three strategies: promoting high expectations for students, familiarity with other cultures, and development of critical consciousness (e.g. addressing racial inequalities and . 
 
 * Generally, Byrd's analysis of white students' perceptions supports the use of culturally relevant teaching. 
+
 * Students that report learning about 
+
 * Some examples of cultural competency items include:
   * "In school, you get to do things that help you learn about people of different races and cultures."
-  * 
+  
+    
+  
   * "In your classes, you have learned about how race/ethnicity plays a role in who is successful."
+  
 * Byrd found that, on average, high school students scored lower on racism awareness measures when they report teachers promote cultural competency alone. 
   * The racial awareness measures include whether students perceive equal opportunities in the United States based on race and whether race is "a problem of the past, but… is not a problem today."
   * They speculate that teachers may use "humanitarian messages" that overlook racial inequalities and power imbalances (insert page).
   * Instead, teaching practices that promoted student's to critical reflect on oppression systemically and discuss 
+  
 * She concludes: "It is important that teachers balance celebrations of diversity with discussions of historical and contemporary racism."
   * Points to the particularities of contexts as white adolescents interpret racial messages from teachers. 
 
 Ethnographies of high school teachers reveal how white adolescents engage with teaching styles that balance cultural competency and critical consciousness.
 
-* Martell
+* Martell **(see citations!!!)**
 
+Learning, teaching, and knowing history:
 
+* p.273: "How Americans use and think about the past": Whites trust history school teachers more than Black and Pine Ridge Sioux. 
+
+**p. 178** women without class!
 
 Epstein:
 
 * p.10: **Important information about interpretations, citations**
 
 * p.34-35: teachers sent a "mixed message" about the significance of people of color in American history. They believed it was important to teach about experiences of racial groups and their contributions but in practice only focused on white American contributions, with the exception of Black Americans during the Civil Rights Movement.
+
+* p.37: Mexican American, seen as individual choice (grape boycott) rather than mobilization around economic freedom.
+
+* 
 
 * p.40-41: balancing "positive" (racial cooperation) with the "negative" (racial conflict). Race relations was framed as an issue to be solved.
 
@@ -177,10 +191,16 @@ Epstein:
       * **cultural racism** in andrea's "segregation" is just because of how people grow up.
   * p.79: "half of the white adolescents believed that all people had rights and racism was nonexistent or related to individual discrimination"
   * 1/4 of White adolescents believed that racism no longer existed and that Black people were responsible for tensions
-    * "Black history comes round, it's nothing but problems. Black people are mean to the white kids… That was the past" **minimization or racism**
+    * Black history comes round, it's nothing but problems. Black people are mean to the white kids… That was the past" **minimization or racism**
   * p.78: "**Pedagogy had very little effect on students' overall interpretive frameworks**" (Seixas 1993)
     * perhaps because they were similar to what taught by parents (p. 113)
   * good summary of influence of white teachers on p. 118
+
+
+
+**Construction of collective, citizenship**
+
+* Morteii, "melting pot model", Italian American children being incorporated	
 
 Outside of history… teachers interact with their students differentially. 
 
@@ -226,7 +246,14 @@ Andrews & Gutwein: all racial groups can perceive differential treatment based o
 
 Others
 
+History discussion
 
+* Abstract liberalism	
+* Minimization of racism
+  * Cooperation and conflict, ignoring power dynamic. Frames racism as the cause of a few bad apples.
+* Naturalization
+* Cultural racism
+  * Role of indigenous people, stuck in the past, passive, victims
 
 * What role do teachers 
 
