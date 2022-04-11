@@ -2,6 +2,60 @@ Outline:
 
 ## Intro
 
+ 
+
+Outside of White students and teachers were more likely to 
+
+·    Stereotypes, “melting pot” (abstract liberalism), and minimization of racism.
+
+Representations of racial history as matters of cultural difference  relational and imbalanced nature of racism. This approach also impacts the ways in which 
+
+ 
+
+·    In AP U.S. history, texts about race and gender are “attached” rather than integrated into curricula (Chu 2004; 6)
+
+The 
+
+Mostly, white students confined interracial conflict to slavery and the Jim Crow era. 
+
+ 
+
+ 
+
+pushed forth by their teachers, like that Mexican American freedom struggle of the 1960s was about combatting prejudice rather than barriers to migrant workers’ economic freedom, and that their consequent victories pushed the United States into a post-racial era.
+
+ 
+
+Colorblind interpretations negotiate differential treatment by disregarding racial power imbalances as long as discrimination remains unsaid,
+
+about the significance of Black people in history by seeking to balance “positive” examples of racial cooperation with “negative” facts about enslavement, segregation, and persistent racial inequality **(Epstein 2009, 34-35).** In Epstein’s (2009) ethnography of two eleventh grade classrooms, the White teachers commented that they exclude details of anti-Black violence in fear of upsetting Black students. One teacher reminded the students that, although masters often brutalized slaves, there were also “very good” masters that treated slaves well. They also minimized the (Brown & Brown 2010). 
+
+Black Americans are often victimized in American history, their agency excluded. Discussions about interactions between white and Black Americans, revealed through teachers’ language and historical omissions, reinforce this portrayal. For instance, aside from the Civil Rights Movement, teachers often cast African Americans as passive recipients of white projects of enslavement and segregation. 
+
+ 
+
+which serve member of an Indigenous organizing group, argues that this history The idea that Indigenous Thus, White adolescents also focus on Black Americans  
+
+ 
+
+Commenters have argued equating racial and cultural groups can ignore the underlying power imbalances that exist with racial structures
+
+multicultural or “culturally-relevant” pedagogies can 
+
+ 
+
+ 
+
+Compared to Black teachers, for example, white teachers’ appraisals of their students’ likelihood of postsecondary attainment, classroom behavior, and preparedness for advanced courses tend to favor white students over Black students (). It was only recently that the substantial body of research on 
+
+Outside of the teaching of history, students also confront messages of colorblindness through differential treatment by teachers. As early as elementary school, individuals can perceive differences in evaluations between themselves and others from their instructors, which in turn shapes their self-esteem. The large body of research on teacher expectancy reveals both their tangible and psychological effects, for instance, on their test scores (Sorhagan 2013), school discipline (Souham & Hoover 2013), graduation rates, as well as self-esteem, resistance to stereo**types, etc.** 
+
+Brophy and Good’s (1970) model theorizes teacher expectancy through four prongs: (1) teachers’ evaluations of classroom performance (e.g. grades, manners, and test scores), (2) student groupings during classroom instruction, (3) students’ construction of self-concept in relation to differential treatment, and (4) continuity in teachers’ expectations over time. Since the Brophy and Good model, analysts have observed the racialized dimension of teacher expectancy. Not only do teachers evaluate their students based on race, but the raci
+
+
+
+
+
 ### Paragraph 1: Intro, link schooling to perceiving race
 
 * Children, schooling important socialization
