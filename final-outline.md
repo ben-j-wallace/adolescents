@@ -152,10 +152,6 @@ Brophy and Good’s (1970) model theorizes teacher expectancy through four prong
 * History
   * Hatchell (2004, 100): Omission of how early Aboriginals organized their societies at the time of European colonization in Australian history leads white students to "accept prevalent discourse" that dismisses Indigenous claims to land.
 
-
-
-
-
 ### Teachers
 
 See Pollock 2004 from Thomas "We Always Talk About Race"
@@ -255,6 +251,9 @@ Epstein:
 **Construction of collective, citizenship**
 
 * Morteii, "melting pot model", Italian American children being incorporated	
+* Banks 
+
+
 
 Outside of history… teachers interact with their students differentially. 
 
